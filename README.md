@@ -4,13 +4,13 @@ Follow the tutorial on this page https://developers.google.com/gmail/api/quickst
 ### 2. Put the generated json key into this folder with the name gmail_key.json
 ### 3. Install Google python library
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-### 4. Create Discord bot
+### 4. Create Discord Bot
 
 Follow the tutorial on this page https://realpython.com/how-to-make-a-discord-bot-python
 
-get token after reset
+Get token after pressing "Reset Token" button
 
-get bot id from ouath page from copy client id 
+Get Bot ID from oauth page from copy client id 
 
 pip install discord.py
 
