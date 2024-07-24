@@ -10,7 +10,7 @@ Follow the tutorial on this page https://realpython.com/how-to-make-a-discord-bo
 
 Get token after pressing "Reset Token" button
 
-Get Bot ID from oauth page from copy client id 
+Get Bot ID from oauth page with Copy under "Client ID"
 
 pip install discord.py
 
