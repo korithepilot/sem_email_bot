@@ -1,3 +1,4 @@
+## Steps to get this to work:
 ### 1. Get Gmail api key
 Follow the tutorial on this page https://developers.google.com/gmail/api/quickstart/python
 ### 2. Put the generated json key into this folder with the name gmail_key.json
