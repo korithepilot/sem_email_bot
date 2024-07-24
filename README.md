@@ -10,3 +10,5 @@ get bot id from ouath page from copy client id
 pip install discord.py
 pip install python-dotenv
 ## 5. Step - Open desired channel in web browser and get guild and channel id
+## 6. Step - Start bot on desktop and get Gmail token from the redirect
+## 7. Step - Send files to server and start bot
